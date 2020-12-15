@@ -8,9 +8,6 @@
     <artifactId>cloud-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>../SpringCloud-eureka</module>
-    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
